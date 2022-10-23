@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_01.Person</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="Person.csproj" />
+  </ItemGroup>
+
+</Project>
