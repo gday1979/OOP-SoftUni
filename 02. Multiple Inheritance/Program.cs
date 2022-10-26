@@ -1,12 +1,15 @@
 ﻿using System;
 
-namespace _02._Multiple_Inheritance
+namespace Farm
 {
-    internal class Program
+    public class StarUp
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Puppy puppy = new Puppy();
+            puppy.Eat();
+            puppy.Bark();
+            puppy.Weep();
         }
     }
 }

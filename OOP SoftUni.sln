@@ -9,17 +9,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab", "Lab", "{B6470FD7-E57
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exe", "Exe", "{D07519C6-CA68-4606-8BBB-0DA237ACCF0C}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01. Single Inheritance", "01. Single Inheritance", "{C0F222A1-BFD5-40AE-8868-FB2D948F913F}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01. Singleinheritance", "01. Singleinheritance", "{C0F222A1-BFD5-40AE-8868-FB2D948F913F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Single Inheritance", "01. Single Inheritance\01. Single Inheritance.csproj", "{F6855D7A-FF92-4E1E-BCB6-72F1B1DAEF2B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. SingleInheritance", "01. Single Inheritance\01. SingleInheritance.csproj", "{F6855D7A-FF92-4E1E-BCB6-72F1B1DAEF2B}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02. Multiple Inheritance", "02. Multiple Inheritance", "{9D13F9F4-046C-4A04-BEB5-09EB85C28721}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02. MultipleInheritance", "02. MultipleInheritance", "{9D13F9F4-046C-4A04-BEB5-09EB85C28721}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Multiple Inheritance", "02. Multiple Inheritance\02. Multiple Inheritance.csproj", "{42CD5E33-A9AE-47BA-8AE4-545D8D092C2A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. MultipleInheritance", "02. Multiple Inheritance\02. MultipleInheritance.csproj", "{42CD5E33-A9AE-47BA-8AE4-545D8D092C2A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03. Hierarchical Inheritance", "03. Hierarchical Inheritance", "{B03D4121-7290-4D94-9FB5-4702B4B520E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Hierarchical Inheritance", "03. Hierarchical Inheritance\03. Hierarchical Inheritance.csproj", "{50A28449-4909-4EB3-9F98-AB88B0A50F4D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. HierarchicalInheritance", "03. Hierarchical Inheritance\03. HierarchicalInheritance.csproj", "{50A28449-4909-4EB3-9F98-AB88B0A50F4D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04. Random List", "04. Random List", "{33614EC6-A596-4B46-9A8C-5941C81C2ECE}"
 EndProject
@@ -96,6 +96,9 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Football Team Generator", "05. Football Team Generator\05. Football Team Generator.csproj", "{6AB51E97-0465-4947-806A-3C11446D4C5D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03.Interfaces and Abstraction", "03.Interfaces and Abstraction", "{B2DE1203-7C2B-45FF-A4E3-16E53048D6A8}"
+	ProjectSection(SolutionItems) = preProject
+		02. Multiple Inheritance\02. Multiple Inheritance.zip = 02. Multiple Inheritance\02. Multiple Inheritance.zip
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab", "Lab", "{6C35082E-E387-44F0-9CF2-FF84ECF5BF00}"
 EndProject
