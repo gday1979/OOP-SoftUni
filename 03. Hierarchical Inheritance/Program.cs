@@ -4,7 +4,7 @@ namespace Farm
 {
     public class StartUp
     {
-        public void Main(string[] args)
+        public  static void Main (string[] args)
         {
             Dog dog = new Dog();
             dog.Eat();
