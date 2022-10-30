@@ -1,4 +1,5 @@
-﻿namespace NeedForSpeed
+﻿namespace Restaurant
+
 {
     public class StartUp
     {
