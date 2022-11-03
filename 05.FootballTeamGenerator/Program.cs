@@ -1,9 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Numerics;
 
-namespace FootballTeamGenerator
+namespace _05.FootballTeamGenerator
 {
     public class Program
     {
