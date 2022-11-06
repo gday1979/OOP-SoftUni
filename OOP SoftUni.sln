@@ -111,7 +111,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. DefineAnInterfaceIPerso
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02. Multiple Implementation", "02. Multiple Implementation", "{D4CFE9CD-A8F9-49C5-B8D4-102BAEC81F36}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Multiple Implementation", "02. Multiple Implementation\02. Multiple Implementation.csproj", "{64A6F476-CE05-4E18-96E5-94C872E66604}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. MultipleImplementation", "02. Multiple Implementation\02. MultipleImplementation.csproj", "{64A6F476-CE05-4E18-96E5-94C872E66604}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03. Telephony", "03. Telephony", "{18F7DC9A-228E-4264-BD02-DF7F8EBC7F0D}"
 EndProject
@@ -197,7 +197,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Models", "Models", "{AA77FA
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.Cars", "02.Cars\02.Cars.csproj", "{151ED1CD-0717-447F-9E4B-09EEFC404DC6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.FootballTeamGenerator", "05.FootballTeamGenerator\05.FootballTeamGenerator.csproj", "{E2A2A46B-4597-43CC-AB36-7C68D902B5FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.FootballTeamGenerator", "05.FootballTeamGenerator\05.FootballTeamGenerator.csproj", "{E2A2A46B-4597-43CC-AB36-7C68D902B5FA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
