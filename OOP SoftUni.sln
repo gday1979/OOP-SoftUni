@@ -149,7 +149,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exe", "Exe", "{DD1A2223-338
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01. Math Operations", "01. Math Operations", "{B603CF61-AA33-47C9-8E3C-45670D107665}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Math Operations", "01. Math Operations\01. Math Operations.csproj", "{721F8CD3-AC05-4E36-885B-FE09585197A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. MathOperations", "01. Math Operations\01. MathOperations.csproj", "{721F8CD3-AC05-4E36-885B-FE09585197A8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02. Animals", "02. Animals", "{3DC84C9D-07C8-43C3-9082-9E1372B1F92D}"
 EndProject
