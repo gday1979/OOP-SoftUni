@@ -239,6 +239,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Structure", "01.Structur
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Raiding", "Raiding\Raiding.csproj", "{E237BB66-A2AB-4982-AD61-48FBC2471C76}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WildFarm", "WildFarm\WildFarm.csproj", "{D05B3AD2-DC1C-4C03-8112-250473AA628C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -421,6 +423,10 @@ Global
 		{E237BB66-A2AB-4982-AD61-48FBC2471C76}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E237BB66-A2AB-4982-AD61-48FBC2471C76}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E237BB66-A2AB-4982-AD61-48FBC2471C76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D05B3AD2-DC1C-4C03-8112-250473AA628C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D05B3AD2-DC1C-4C03-8112-250473AA628C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D05B3AD2-DC1C-4C03-8112-250473AA628C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D05B3AD2-DC1C-4C03-8112-250473AA628C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -536,6 +542,7 @@ Global
 		{49FA37CC-A196-4B40-98FB-A0B06D1E2449} = {9A8724BD-4257-4FEE-A8D0-6DBD593A93B6}
 		{061D17E3-C87A-460B-AB91-57D32BC5FA77} = {99E9BD67-866C-451C-B37C-045F2FB3A69E}
 		{E237BB66-A2AB-4982-AD61-48FBC2471C76} = {5CB89F16-66CB-4578-A3C1-6F330DFAF19F}
+		{D05B3AD2-DC1C-4C03-8112-250473AA628C} = {C6021431-FE07-49C0-8048-39B28DA1AE74}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {41D33486-767E-44BA-AA57-E2ED0AEE2F56}
