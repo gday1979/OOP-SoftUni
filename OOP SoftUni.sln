@@ -135,7 +135,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07. Military Elite", "07. M
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08. Collection Hierarchy", "08. Collection Hierarchy", "{8133BB54-706B-470D-8554-1FCDE3E14145}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08. Collection Hierarchy", "08. Collection Hierarchy\08. Collection Hierarchy.csproj", "{22234572-917A-4F0E-BCE0-0319C1C5F8BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CollectionHierarchy", "08. Collection Hierarchy\CollectionHierarchy.csproj", "{22234572-917A-4F0E-BCE0-0319C1C5F8BB}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "09. Explicit Interfaces", "09. Explicit Interfaces", "{4414ACB1-A082-4444-B777-AA09DFA5600C}"
 EndProject

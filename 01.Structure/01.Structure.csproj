@@ -10,8 +10,4 @@
     <None Include="CarRacing\CarRacing.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="CarRacing\bin\Debug\netcoreapp3.1\" />
-  </ItemGroup>
-
 </Project>

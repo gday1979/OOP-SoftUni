@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace _08._Collection_Hierarchy
+namespace CollectionHierarchy
 {
-    internal class Program
+    internal class StartUp
     {
         static void Main(string[] args)
         {
