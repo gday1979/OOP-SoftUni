@@ -5,10 +5,10 @@ using System.Text;
 
 namespace CarRacing.Models.Cars
 {
-    class Car : ICar
+    public class Car : ICar
 
     {
-        public abstract Car(string make,string model,string VIN,int horsePower,double fuelAvailable,double fuelConsumption)
+        public   Car(string make, string model, string VIN, int horsePower, double fuelAvailable, double fuelConsumption)
         {
 
         }
