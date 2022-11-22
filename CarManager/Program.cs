@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ValidationAtributes
+namespace CarManager
 {
     internal class Program
     {
